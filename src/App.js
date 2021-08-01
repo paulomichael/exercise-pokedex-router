@@ -16,7 +16,7 @@ class App extends Component {
               <div className="App">
                 <h1> Pokedex </h1>
                 <Pokedex {...routeProps} pokemons={pokemons} />
-              </div>
+              </div >
             )}
           />
           <Route path="/about">
