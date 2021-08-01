@@ -3,6 +3,7 @@ import './App.css';
 import pokemons from './data';
 import Pokedex from './Pokedex';
 
+ // comment for the initial commit
 function App() {
   return (
     <div className="App">
