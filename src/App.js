@@ -8,6 +8,8 @@ class App extends Component {
   render() {
     return (
       <Router>
+      <nav>
+      </nav>
         <Switch>
           <Route
             exact
